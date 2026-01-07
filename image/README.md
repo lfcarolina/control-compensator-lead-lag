@@ -17,5 +17,5 @@ Performance of the uncompensated plant and individual compensators:
 * `step_lag.png`: Response with Lag compensator (focus on steady-state error).
 
 ### 2. Performance Comparison
-![Comparison Plot](nome_do_arquivo_da_comparacao.png)
+![Comparison Plot](step_response_of_all.png)
 *Figure: Comparative analysis showing the trade-offs between Lead and Lag strategies.*
