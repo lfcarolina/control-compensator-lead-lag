@@ -70,5 +70,4 @@ Step responses and Bode diagrams were used to support the analysis.
 
 Lucas Ferreira  
 Electrical Engineering Student – Automation and Robotics
-Electrical Engineering Student – Automation and Robotics
 
